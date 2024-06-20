@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/HelloWorld>
 # HelloWorld
 Hello World programs written in multiple languages =D
 
